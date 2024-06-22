@@ -2,6 +2,7 @@
 *.log
 *.gz
 *.fls
+*.code-workspace
 
 main.fls
 main.aux
