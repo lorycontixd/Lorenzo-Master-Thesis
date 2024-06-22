@@ -1,7 +1,9 @@
 *.aux
 *.log
 *.gz
+*.fls
 
+main.fls
 main.aux
 main.fdb_latexmk
 main.synctex.gz
